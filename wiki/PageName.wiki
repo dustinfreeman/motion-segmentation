@@ -1,0 +1,8 @@
+#summary Progress so far
+
+= Progress =
+
+So far, we have implemented a simple contrast-based image segmentation algorithm.
+
+
+See [http://code.google.com/p/motion-segmentation/downloads/list Here] for resulting output.
