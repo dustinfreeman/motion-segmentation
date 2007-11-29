@@ -1,0 +1,9 @@
+#summary List of resources and references
+
+= Region tracking via level set PDEs without motion computation =
+== Mansouri, A.-R ==
+=== Pattern Analysis and Machine Intelligence, IEEE Transactions on
+Volume 24,  Issue 7,  July 2002 Page(s):947 - 961 ===
+
+[http://ieeexplore.ieee.org/iel5/34/21893/01017621.pdf?tp=&arnumber=1017621&isnumber=21893 PDF Link]
+
