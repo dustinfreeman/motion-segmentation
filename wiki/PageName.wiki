@@ -6,3 +6,4 @@ So far, we have implemented a simple contrast-based image segmentation algorithm
 
 
 See [http://code.google.com/p/motion-segmentation/downloads/list Here] for resulting output.
+The [http://www.xvid.org/Downloads.15.0.html XviD] decoder is needed to play the videos.
