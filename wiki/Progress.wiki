@@ -2,8 +2,9 @@
 
 = Progress =
 
-So far, we have implemented a simple contrast-based image segmentation algorithm.
+So far, we have implemented a simple contrast-based image segmentation algorithm.  This is to confirm our codebase is well-formed.
 
+We now have the capability to load and store multiple TIFF images, as well as perform the algorithmic computations on these images in memory.
 
 See [http://code.google.com/p/motion-segmentation/downloads/list Here] for resulting output.
 The [http://www.xvid.org/Downloads.15.0.html XviD] decoder is needed to play the videos.
